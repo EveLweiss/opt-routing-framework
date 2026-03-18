@@ -6,6 +6,14 @@ A conceptual framework for interpreting and structuring routing in Mixture-of-Ex
 This repository presents a conceptual framework for interpreting and structuring 
 routing mechanisms in modular large language models.
 
+## Papers
+
+### OPT as a Cognitive Routing Layer for Modular LLM Architectures  
+[PDF](./opt-routing-layer.pdf) | [DOI](https://doi.org/10.5281/zenodo.18963960)
+
+### Toward Path-Constrained Routing in Mixture-of-Experts Models  
+[PDF](./pathway-constrained-routing.pdf) | [DOI](https://doi.org/10.5281/zenodo.19098393)
+
 The work is developed in two stages:
 
 ## Stage 1 — Interpretive Framework
